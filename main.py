@@ -1,5 +1,4 @@
 import os
-from pprint import pprint
 
 new_text = []
 
